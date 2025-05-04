@@ -203,6 +203,16 @@ cursor: pointer;
     width: 264px;
 height: 107px;
 }
+.feature-icon {
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    background: #f4f4fd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .feature-name {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
