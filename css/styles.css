@@ -266,6 +266,7 @@ text-transform: capitalize;
     padding: 32px 0;
 }
 .team-list-item {
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
    background-color:  #FFFFFF;  
    border-radius: 0 0 4px 4px;
    
@@ -311,6 +312,15 @@ border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.networks:hover {
+    background-color: #404bbf;   
+}
+.networks:focus {
+    background-color: #404bbf;
+}
+.icons {
+    fill: #f4f4fd;
 }
 
 /* section four */
