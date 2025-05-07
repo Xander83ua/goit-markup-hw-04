@@ -446,6 +446,19 @@ color: #f4f4fd;
 height: 72px;
 width: 264px;
 }
+.footer-container {
+    display: flex;
+    align-items: baseline;
+}
+.soc-container {
+    display: flex;
+    width: 208px;
+    height: 80px;
+    padding-top: 100px;
+    padding-right: 692px;
+    padding-bottom: 132px;
+    padding-left: 540px;
+}
 .social-media {
     font-weight: 500;
     font-size: 16px;
